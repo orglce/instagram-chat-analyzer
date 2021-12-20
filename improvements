@@ -1,0 +1,3 @@
+dynamically created regex
+match words longer than three characters but exclude ones chosen to be sanitized like OK
+person one person two
